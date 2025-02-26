@@ -1,0 +1,2 @@
+1 test.thor
+//2 2007-11-17palettes.thor
