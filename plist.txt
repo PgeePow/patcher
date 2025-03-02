@@ -1,4 +1,4 @@
 1 test.thor
 2 020305_patchupdate_itemdesc.thor
-3 020305_patchupdate_itemdesc.thor
+3 020305_patchupdate_itemdesc2.thor
 //2 2007-11-17palettes.thor
