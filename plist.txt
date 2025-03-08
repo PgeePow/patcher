@@ -2,3 +2,4 @@
 1 clientv0001.thor
 2 opensetup.thor
 3 cleansignboard.thor
+4 attendanceandclient.thor
