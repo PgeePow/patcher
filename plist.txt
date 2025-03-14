@@ -7,3 +7,4 @@
 6 stylistfix2.thor
 7 stylistfix3.thor
 8 stylistfix4.thor
+9 stylistfix5.thor
