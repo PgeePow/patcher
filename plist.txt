@@ -5,3 +5,4 @@
 4 attendanceandclient.thor
 5 stylistfix.thor
 6 stylistfix2.thor
+7 stylistfix3.thor
