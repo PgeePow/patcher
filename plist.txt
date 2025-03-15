@@ -3,8 +3,3 @@
 2 opensetup.thor
 3 cleansignboard.thor
 4 attendanceandclient.thor
-5 stylistfix.thor
-6 stylistfix2.thor
-7 stylistfix3.thor
-8 stylistfix4.thor
-9 stylistfix5.thor
