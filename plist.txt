@@ -6,3 +6,4 @@
 5 iteminfo170325.thor
 6 newprontera.thor
 7 newprontera2.thor
+8 newprontera3.thor
