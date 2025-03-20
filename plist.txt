@@ -4,5 +4,5 @@
 3 cleansignboard.thor
 4 attendanceandclient.thor
 5 iteminfo170325.thor
-6 newprontera2.thor
+6 newprontera.thor
 7 deletegrfkey.thor
