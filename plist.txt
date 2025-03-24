@@ -6,3 +6,4 @@
 5 iteminfo170325.thor
 6 newprontera.thor
 7 deletegrfkey.thor
+8 iteminfo2403.thor
