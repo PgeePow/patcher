@@ -8,3 +8,4 @@
 7 deletegrfkey.thor
 8 iteminfo2403.thor
 9 iteminfo280325.thor
+10 iteminfo290325.thor
