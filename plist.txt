@@ -9,3 +9,5 @@
 8 iteminfo2403.thor
 9 iteminfo280325.thor
 10 iteminfo290325.thor
+11 iteminfo290325-2.thor
+12 guildemblem.thor
