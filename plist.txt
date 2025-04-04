@@ -11,3 +11,5 @@
 10 iteminfo290325.thor
 11 iteminfo290325-2.thor
 12 guildemblem.thor
+13 clientinfoupdate.thor
+14 iteminfo050424.thor
